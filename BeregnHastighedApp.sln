@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeregnHastighedApp", "BeregnHastighedApp\BeregnHastighedApp.csproj", "{700A72B8-A567-4D54-83F0-44631EF245DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeregnTests", "BeregnTests\BeregnTests.csproj", "{CCC166F0-6036-4BAF-9361-9B4494AAB085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{700A72B8-A567-4D54-83F0-44631EF245DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700A72B8-A567-4D54-83F0-44631EF245DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700A72B8-A567-4D54-83F0-44631EF245DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700A72B8-A567-4D54-83F0-44631EF245DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC166F0-6036-4BAF-9361-9B4494AAB085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC166F0-6036-4BAF-9361-9B4494AAB085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC166F0-6036-4BAF-9361-9B4494AAB085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC166F0-6036-4BAF-9361-9B4494AAB085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87B9CD65-AB45-4DCF-B5A4-59CBF33F1C16}
+	EndGlobalSection
+EndGlobal
